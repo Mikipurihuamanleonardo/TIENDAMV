@@ -1,0 +1,91 @@
+laptop1:
+Marca : Lenovo
+Modelo : IDEAPAD 5 15ALC05
+Producto : Laptop
+Procesador : AMD Ryzen 7
+Tarjeta de video : AMD Radeon
+Memoria RAM : 16GB DDR4
+Almacenamiento : HDD + SSD
+Pantalla : 15.6''FHD
+Teclado : Español
+Sistema Operativo : FreeDOS
+S/ 2844
+
+laptop2:
+Marca : Asus
+Modelo : VIVOBOOK
+Producto : Laptop
+Procesador : AMD Ryzen 7
+Tarjeta de video : AMD Radeon
+Memoria RAM : 8GB DDR4
+Almacenamiento : 512GB(SSD)
+Pantalla : 15.6''FHD
+Teclado : Español
+Sistema Operativo : FreeDOS
+SKUP : NE008
+S/ 3070
+
+laptop3
+Marca : HP
+Modelo : 15-DY5010LA
+Producto : Laptop
+Procesador : Core i7 - 12th
+Tarjeta de video : Intel Iris Xe Graphics
+Memoria RAM : 12GB DDR4
+Almacenamiento : 512GB(SSD)
+Pantalla : 15.6" HD
+Teclado : Español
+Sistema Operativo : Windows 11
+SKUP : ECO22
+S/ 3258
+-----------------------------------------------------------------
+equipo1:
+Procesador: Intel Core i7-11700F 2.5 / 4.9 GHz (8 Núcleos) 16 MB Caché 11va Generación
+Memoria RAM: 16GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 512 GB M.2 + HDD 1TB  
+Tarjeta Gráfica: NVIDIA GeForce GTX 1660 Super de 6GB
+Case Mid Tower RGB + Fuente 600W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Teclado y Mouse USB incluidos
+S/. 6,299.00
+
+equipo2:
+Procesador: AMD Ryzen 5 5600G, 3.90 / 4.4GHz   ( 6 núcleos, Caché 16MB L3)
+Memoria RAM: 16 GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 480GB + HDD 1TB 
+Case Mid Tower + Fuente 450W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Otros: DVD RW, Teclado y Mouse USB
+S/. 3,199.00
+
+equipo3
+Procesador: Intel Core i7-11700F 2.5 / 4.9 GHz (8 Núcleos) 16 MB Caché 11va Generación
+Memoria RAM: 16GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 480GB 
+Disco Duro HDD: 1TB 7200 RPM
+Tarjeta Gráfica: NVIDIA GeForce GTX1650 4GB
+Case Mid Tower RGB + Fuente 600W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Teclado y Mouse USB incluidos
+S/. 5,299.00
+------------------------------------
+
+JUEGOS
+
+JUEGO1
+Deep Rock Galactic es un shooter cooperativo de ciencia ficción en primera persona con enanos espaciales de armas tomar, entornos totalmente destruibles, cuevas generadas procedimentalmente y hordas interminables de monstruos alienígenas.
+
+JUEGO2
+For The King es un juego de rol estratégico que combina elementos de juegos de mesa y roguelike en una desafiante aventura a través de diversos reinos. Inicia un viaje en solitario o colabora con otros jugadores en línea o en partidas locales.
+
+juego3
+Counter-Strike: Global Offensive (CS:GO) amplía el juego de acción por equipos del que fue pionero cuando salió hace más de 20 años. CS:GO incluye nuevos mapas, personajes, armas y modos de juego, y ofrece versiones actualizadas del contenido clásico de Counter-Strike (de_dust2, etc.).
+
+juego4
+War Thunder es un juego de combate MMO gratuito de vehículos militares usados en la Segunda Guerra Mundial y la guerra de Corea. Lucha en grandes batallas de tierra, mar y aire con jugadores internacionales en un entorno en continuo desarrollo.
+
+juego5
+Cada día, millones de jugadores de todo el mundo entran en batalla como uno de los más de cien héroes de Dota. Y no importa si es su décima hora de juego o la milésima, siempre hay algo nuevo que descubrir.
+
+juego6
+Apex Legends es el galardonado juego gratuito de acción en primera persona de Respawn Entertainment. Domina un elenco creciente de leyendas con potentes habilidades. Juego estratégico basado en pelotones y jugabilidad innovadora en la nueva evolución del Battle Royale 
