@@ -9,7 +9,7 @@ Almacenamiento : HDD + SSD
 Pantalla : 15.6''FHD
 Teclado : Español
 Sistema Operativo : FreeDOS
-S/ 2844
+S/ 2.844.00
 
 laptop2:
 Marca : Asus
@@ -23,7 +23,7 @@ Pantalla : 15.6''FHD
 Teclado : Español
 Sistema Operativo : FreeDOS
 SKUP : NE008
-S/ 3070
+S/ 3.070.00
 
 laptop3
 Marca : HP
@@ -37,7 +37,7 @@ Pantalla : 15.6" HD
 Teclado : Español
 Sistema Operativo : Windows 11
 SKUP : ECO22
-S/ 3258
+S/ 3.258.00
 -----------------------------------------------------------------
 equipo1:
 Procesador: Intel Core i7-11700F 2.5 / 4.9 GHz (8 Núcleos) 16 MB Caché 11va Generación
