@@ -68,8 +68,38 @@
 
   .wrapper-juegos {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3,30%);
+    gap: 0;
+    padding-top: 150px;
+    transform-origin: 0 0;
+    transform: skewY(-4deg)
   }
+
+  /* hover  de juegos*/
+  .tooltip{
+    position: static;
+
+  }
+
+  .tooltip .tooltiptext{
+    visibility: hidden;
+    width: 30%;
+    background-color: #194569;
+    color: white;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+/* posicion tooltip*/
+    position: absolute;
+    z-index: 1;
+  }
+  .tooltip:hover .tooltiptext{
+    visibility: visible;
+  }
+
+  
+
+
   section{
     width: 100%;
     overflow: hidden;
